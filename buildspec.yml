@@ -10,4 +10,4 @@ phases:
     commands:
       - echo Build started on `date`
       - java -version
-      - mvn install
+      - mvn clean install
