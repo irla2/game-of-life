@@ -12,3 +12,4 @@ phases:
       - java -version
       - mvn clean install
       - install the testcases
+      - Added prebuild steps
