@@ -11,3 +11,4 @@ phases:
       - echo Build started on `date`
       - java -version
       - mvn clean install
+      - install the testcases
